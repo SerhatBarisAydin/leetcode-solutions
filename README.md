@@ -9,7 +9,7 @@ Each solution is well-commented for better understanding.
 
 | #   | Problem | Difficulty | Solution | 
 |-----|----------|------------|----------|
-| 1518   | [Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | [Code](./algorithms/typescript/1518 - WaterBottles) |
+| 1518   | [Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | [Code](./algorithms/typescript/1518-Water-Bottles) |
 
 
 ---
