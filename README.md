@@ -19,6 +19,6 @@ Each solution is well-commented for better understanding.
 
 algorithms/ <br/>
 ├── 0000-Another-Problem/ <br/>
-│   └── typescript/ <br/>
-│       └── 0000-Another-Problem.ts <br/>
+│         └── typescript/ <br/>
+│                   └── 0000-Another-Problem.ts <br/>
 └── ...
