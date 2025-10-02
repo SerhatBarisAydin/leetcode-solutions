@@ -17,8 +17,8 @@ Each solution is well-commented for better understanding.
 
 ## 📖 Folder Structure
 
-algorithms/
-├── 0000-Another-Problem/
-│   └── typescript/
-│       └── 0000-Another-Problem.ts
+algorithms/ <br/>
+├── 0000-Another-Problem/ <br/>
+│   └── typescript/ <br/>
+│       └── 0000-Another-Problem.ts <br/>
 └── ...
