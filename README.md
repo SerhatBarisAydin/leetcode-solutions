@@ -3,6 +3,11 @@
 This repository contains my solutions to various LeetCode problems, written in **TypeScript**.  
 Each solution is well-commented for better understanding.  
 
+## 🔗 LeetCode Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/serhatbarisaydin/)
+
+
 ---
 
 ## 📂 Table of Contents
