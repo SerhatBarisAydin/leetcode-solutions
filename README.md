@@ -16,7 +16,7 @@ Each solution is well-commented for better understanding.
 |------|----------------------------------------------|------------|----------------------------------------|---------------|
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy       | [Code](./algorithms/1518-Water-Bottles)      | Ts            |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium     | [Code](./algorithms/74-Search-a-2D-Matrix)   | Ts            |
-| 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy       | [Code](./Dynamic Programming/509-Fibonacci-Number)    | Ts            |
+| 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy       | [Code](./Dynamic-Programming/509-Fibonacci-Number)    | Ts            |
 
 
 ---
